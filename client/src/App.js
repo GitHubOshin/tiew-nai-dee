@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react'
-import './App.css'
 import HeaderSearchBox from './components/HeaderSearchBox'
 import LocationList from './components/LocationList'
 import { BASE_URL } from './constants/url'
